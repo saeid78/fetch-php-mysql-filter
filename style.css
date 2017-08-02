@@ -1,0 +1,22 @@
+
+body{
+  margin: 0 auto;
+  max-width: 1260;
+}
+#info1{
+  margin: 150px 0 10px 150px;
+}
+
+table th{
+  background: #dddddd;
+}
+table tr{
+background: #ccc;
+}
+table tr:nth-child(2n){
+background: #aaabbb;
+}
+ table{
+   border: 1px #bbb solid ;
+   width:50%;
+ }
