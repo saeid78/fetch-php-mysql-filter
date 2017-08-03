@@ -16,7 +16,7 @@
      <select name="filter">
        <option value="All">ALL</option>
        <option value="F">Female</option>
-       <<option value="M">Male</option>
+       <option value="M">Male</option>
 
      </select>
      
